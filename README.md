@@ -1,6 +1,6 @@
 # leahsportfolio
 
-This In a Homework Assignment in Advanced CSS. 
+This is Homework Assignment002 in Advanced CSS. 
 This is the criteria that it had to meet:
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
